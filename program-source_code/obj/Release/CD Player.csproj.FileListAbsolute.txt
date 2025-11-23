@@ -1,0 +1,49 @@
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\libmp3lame.32.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\libmp3lame.64.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\CD Player.exe.config
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\CD Player.exe
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\CD Player.pdb
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\DarkNet.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\Microsoft.Win32.Registry.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\NAudio.Asio.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\NAudio.Core.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\NAudio.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\NAudio.Lame.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\NAudio.Midi.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\NAudio.Wasapi.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\NAudio.WinForms.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\NAudio.WinMM.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\System.Security.AccessControl.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\TagLibSharp.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\DarkNet.xml
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\Microsoft.Win32.Registry.xml
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\NAudio.xml
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\NAudio.Asio.xml
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\NAudio.Core.xml
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\NAudio.Lame.pdb
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\NAudio.Midi.xml
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\NAudio.Wasapi.xml
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\NAudio.WinForms.xml
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\NAudio.WinMM.xml
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\System.Security.AccessControl.xml
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\TagLibSharp.pdb
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Release\TagLibSharp.xml
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Release\CD Player.csproj.AssemblyReference.cache
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Release\Interop.MediaPlayer.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Release\Interop.WMLSS.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Release\Interop.WMPDXMLib.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Release\Interop.WMPLauncher.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Release\Interop.WMPLib.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Release\CD Player.csproj.ResolveComReference.cache
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Release\CD_Player.about.resources
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Release\CD_Player.finalizeappsetup.resources
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Release\CD_Player.Form1.resources
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Release\CD_Player.Properties.Resources.resources
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Release\CD Player.csproj.GenerateResource.cache
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Release\CD Player.csproj.CoreCompileInputs.cache
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Release\CD Player.csproj.Up2Date
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Release\CD Player.exe
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Release\CD Player.pdb
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Release\CD Player.exe.config

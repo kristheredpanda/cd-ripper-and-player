@@ -1,0 +1,49 @@
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\CD Player.exe.config
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\CD Player.exe
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\CD Player.pdb
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Debug\CD Player.csproj.AssemblyReference.cache
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Debug\CD Player.csproj.ResolveComReference.cache
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Debug\CD_Player.Form1.resources
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Debug\CD_Player.Properties.Resources.resources
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Debug\CD Player.csproj.GenerateResource.cache
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Debug\CD Player.csproj.CoreCompileInputs.cache
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Debug\CD Player.exe
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Debug\CD Player.pdb
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Debug\Interop.WMLSS.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Debug\CD_Player.about.resources
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\TagLibSharp.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\TagLibSharp.pdb
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\TagLibSharp.xml
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Debug\CD Player.csproj.Up2Date
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\libmp3lame.32.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\libmp3lame.64.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\NAudio.Asio.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\NAudio.Core.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\NAudio.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\NAudio.Lame.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\NAudio.Midi.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\NAudio.WinForms.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\NAudio.WinMM.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\NAudio.xml
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\NAudio.Asio.xml
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\NAudio.Core.xml
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\NAudio.Lame.pdb
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\NAudio.Midi.xml
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\NAudio.WinForms.xml
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\NAudio.WinMM.xml
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\DarkNet.dll
+C:\Users\Kris The Red Panda\source\repos\CD Player\bin\Debug\DarkNet.xml
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Debug\CD Player.exe.config
+C:\Users\Kris The Red Panda\source\repos\CD Player\obj\Debug\CD_Player.finalizeappsetup.resources
